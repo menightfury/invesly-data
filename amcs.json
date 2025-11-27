@@ -5,7 +5,7 @@
         "name": "Aditya Birla Sun Life Focused Fund Direct Growth",
         "genre": "mf",
         "isin": "INF209K01WE3",
-        "tag": "{'category': 'Equity', 'sub_category': 'Focused', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Focused\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "103309",
@@ -13,7 +13,7 @@
         "name": "Aditya Birla Sun Life Focused Fund Regular Growth",
         "genre": "mf",
         "isin": "INF209K01462",
-        "tag": "{'category': 'Equity', 'sub_category': 'Focused', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Focused\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "119563",
@@ -21,7 +21,7 @@
         "name": "Aditya Birla Sun Life Focused Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF209K01Q71",
-        "tag": "{'category': 'Equity', 'sub_category': 'Focused', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Focused\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "103308",
@@ -29,7 +29,7 @@
         "name": "Aditya Birla Sun Life Focused Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF209K01454",
-        "tag": "{'category': 'Equity', 'sub_category': 'Focused', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Focused\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "105804",
@@ -37,7 +37,7 @@
         "name": "Aditya Birla Sun Life Small Cap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF209K01EN2",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "119556",
@@ -45,7 +45,7 @@
         "name": "Aditya Birla Sun Life Small Cap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF209K01WN4",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "119557",
@@ -53,7 +53,7 @@
         "name": "Aditya Birla Sun Life Small Cap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF209K01WM6",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "105805",
@@ -61,7 +61,7 @@
         "name": "Aditya Birla Sun Life Small Cap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF209K01EO0",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "119528",
@@ -69,7 +69,7 @@
         "name": "Aditya Birla Sun Life Large Cap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF209K01YY7",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "119527",
@@ -77,7 +77,7 @@
         "name": "Aditya Birla Sun Life Large Cap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF209K01YX9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "103174",
@@ -85,7 +85,7 @@
         "name": "Aditya Birla Sun Life Large Cap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF209K01BR9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "103173",
@@ -93,7 +93,7 @@
         "name": "Aditya Birla Sun Life Large Cap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF209K01BO6",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "120465",
@@ -101,7 +101,7 @@
         "name": "Axis Large Cap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF846K01DP8",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "120466",
@@ -109,7 +109,7 @@
         "name": "Axis Large Cap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF846K01DN3",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "112277",
@@ -117,7 +117,7 @@
         "name": "Axis Large Cap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF846K01164",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "112278",
@@ -125,7 +125,7 @@
         "name": "Axis Large Cap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF846K01172",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "125354",
@@ -133,7 +133,7 @@
         "name": "Axis Small Cap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF846K01K35",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "125351",
@@ -141,7 +141,7 @@
         "name": "Axis Small Cap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF846K01K43",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "125350",
@@ -149,7 +149,7 @@
         "name": "Axis Small Cap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF846K01K01",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "125352",
@@ -157,7 +157,7 @@
         "name": "Axis Small Cap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF846K01K19",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "151130",
@@ -165,7 +165,7 @@
         "name": "HSBC Small Cap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF917K01QA1",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "151132",
@@ -173,7 +173,7 @@
         "name": "HSBC Small Cap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF917K01PZ0",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "151133",
@@ -181,7 +181,7 @@
         "name": "HSBC Small Cap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF917K01QC7",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "151131",
@@ -189,7 +189,7 @@
         "name": "HSBC Small Cap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF917K01QB9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Small cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Small cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "120585",
@@ -197,7 +197,7 @@
         "name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) Direct IDCW",
         "genre": "mf",
         "isin": "INF109K014L5",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "108466",
@@ -205,7 +205,7 @@
         "name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) Regular Growth",
         "genre": "mf",
         "isin": "INF109K01BL4",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "108465",
@@ -213,7 +213,7 @@
         "name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) Regular IDCW",
         "genre": "mf",
         "isin": "INF109K01EP9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "120586",
@@ -221,7 +221,7 @@
         "name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) Direct Growth",
         "genre": "mf",
         "isin": "INF109K016L0",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "119774",
@@ -229,7 +229,7 @@
         "name": "Kotak Midcap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF174K01LU8",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "119775",
@@ -237,7 +237,7 @@
         "name": "Kotak Midcap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF174K01LT0",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "104908",
@@ -245,7 +245,7 @@
         "name": "Kotak Midcap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF174K01DS9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "104907",
@@ -253,7 +253,7 @@
         "name": "Kotak Midcap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF174K01DU5",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "152002",
@@ -261,7 +261,7 @@
         "name": "LIC MF Mid Cap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF397L01JK8",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "151999",
@@ -269,7 +269,7 @@
         "name": "LIC MF Mid Cap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF397L01JH4",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "152001",
@@ -277,7 +277,7 @@
         "name": "LIC MF Mid Cap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF397L01JO0",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "152000",
@@ -285,7 +285,7 @@
         "name": "LIC MF Mid Cap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF397L01JL6",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "120267",
@@ -293,7 +293,7 @@
         "name": "LIC MF Large Cap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF767K01EJ7",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "120268",
@@ -301,7 +301,7 @@
         "name": "LIC MF Large Cap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF767K01EI9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "106871",
@@ -309,7 +309,7 @@
         "name": "LIC MF Large Cap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF767K01105",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "100332",
@@ -317,7 +317,7 @@
         "name": "LIC MF Large Cap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF767K01097",
-        "tag": "{'category': 'Equity', 'sub_category': 'Large cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Large cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "134017",
@@ -325,7 +325,7 @@
         "name": "LIC MF Banking and Financial Services Fund Direct Growth",
         "genre": "mf",
         "isin": "INF767K01NK6",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "133908",
@@ -333,7 +333,7 @@
         "name": "LIC MF Banking and Financial Services Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF767K01NJ8",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "134016",
@@ -341,7 +341,7 @@
         "name": "LIC MF Banking and Financial Services Fund Regular Growth",
         "genre": "mf",
         "isin": "INF767K01NH2",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "134015",
@@ -349,7 +349,7 @@
         "name": "LIC MF Banking and Financial Services Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF767K01NG4",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "152024",
@@ -357,7 +357,7 @@
         "name": "LIC MF Healthcare Fund Direct Growth",
         "genre": "mf",
         "isin": "INF397L01LK4",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "152023",
@@ -365,7 +365,7 @@
         "name": "LIC MF Healthcare Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF397L01LH0",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "152025",
@@ -373,7 +373,7 @@
         "name": "LIC MF Healthcare Fund Regular Growth",
         "genre": "mf",
         "isin": "INF397L01LG2",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "152026",
@@ -381,7 +381,7 @@
         "name": "LIC MF Healthcare Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF397L01LD9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "120351",
@@ -389,7 +389,7 @@
         "name": "LIC MF Infrastructure Fund Direct Growth",
         "genre": "mf",
         "isin": "INF767K01GW5",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "120350",
@@ -397,7 +397,7 @@
         "name": "LIC MF Infrastructure Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF767K01GV7",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "107763",
@@ -405,7 +405,7 @@
         "name": "LIC MF Infrastructure Fund Regular Growth",
         "genre": "mf",
         "isin": "INF767K01501",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "107764",
@@ -413,7 +413,7 @@
         "name": "LIC MF Infrastructure Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF767K01485",
-        "tag": "{'category': 'Equity', 'sub_category': 'Sectoral', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Sectoral\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "152920",
@@ -421,7 +421,7 @@
         "name": "LIC MF Manufacturing Fund Direct Growth",
         "genre": "mf",
         "isin": "INF767K01RR2",
-        "tag": "{'category': 'Equity', 'sub_category': 'Thematic', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Thematic\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "152921",
@@ -429,7 +429,7 @@
         "name": "LIC MF Manufacturing Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF767K01RT8",
-        "tag": "{'category': 'Equity', 'sub_category': 'Thematic', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Thematic\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "152922",
@@ -437,7 +437,7 @@
         "name": "LIC MF Manufacturing Fund Regular Growth",
         "genre": "mf",
         "isin": "INF767K01RO9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Thematic', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Thematic\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "152923",
@@ -445,7 +445,7 @@
         "name": "LIC MF Manufacturing Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF767K01RQ4",
-        "tag": "{'category': 'Equity', 'sub_category': 'Thematic', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Thematic\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "127044",
@@ -453,7 +453,7 @@
         "name": "Motilal Oswal Midcap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF247L01460",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "127042",
@@ -461,7 +461,7 @@
         "name": "Motilal Oswal Midcap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF247L01445",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "127040",
@@ -469,7 +469,7 @@
         "name": "Motilal Oswal Midcap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF247L01437",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "127039",
@@ -477,7 +477,7 @@
         "name": "Motilal Oswal Midcap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF247L01411",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "122639",
@@ -485,7 +485,7 @@
         "name": "Parag Parikh Flexi Cap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF879O01027",
-        "tag": "{'category': 'Equity', 'sub_category': 'Flexi cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Flexi cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "122640",
@@ -493,7 +493,7 @@
         "name": "Parag Parikh Flexi Cap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF879O01019",
-        "tag": "{'category': 'Equity', 'sub_category': 'Flexi cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Flexi cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "119716",
@@ -501,7 +501,7 @@
         "name": "SBI Midcap Fund Direct Growth",
         "genre": "mf",
         "isin": "INF200K01TP4",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Direct', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Direct\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "119715",
@@ -509,7 +509,7 @@
         "name": "SBI Midcap Fund Direct IDCW",
         "genre": "mf",
         "isin": "INF200K01TN9",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Direct', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Direct\", \"scheme_type\": \"Dividend\"}"
     },
     {
         "scheme_code": "102941",
@@ -517,7 +517,7 @@
         "name": "SBI Midcap Fund Regular Growth",
         "genre": "mf",
         "isin": "INF200K01560",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Regular', 'scheme_type': 'Growth'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Growth\"}"
     },
     {
         "scheme_code": "102942",
@@ -525,6 +525,6 @@
         "name": "SBI Midcap Fund Regular IDCW",
         "genre": "mf",
         "isin": "INF200K01578",
-        "tag": "{'category': 'Equity', 'sub_category': 'Mid cap', 'plan': 'Regular', 'scheme_type': 'Dividend'}"
+        "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
     }
 ]
