@@ -526,5 +526,109 @@
         "genre": "mf",
         "isin": "INF200K01578",
         "tag": "{\"category\": \"Equity\", \"sub_category\": \"Mid cap\", \"plan\": \"Regular\", \"scheme_type\": \"Dividend\"}"
-    }
+    },
+      {
+    "scheme_code": "FCL",
+    "id": "fineotex-chemical-limited",
+    "name": "Fineotex Chemical Limited",
+    "genre": "stock",
+    "isin": "INE045J01026",
+    "tag": "{\"sector\": \"Chemicals & Petrochemicals\", \"industry\": \"Chemicals\"}"
+  },
+  {
+    "scheme_code": "3MINDIA",
+    "id": "3m-india-limited",
+    "name": "3M India Limited",
+    "genre": "stock",
+    "isin": "INE470A01017",
+    "tag": "{\"sector\": \"Diversified\"}"
+  },
+  {
+    "scheme_code": "ABB",
+    "id": "abb-india-limited",
+    "name": "ABB India Limited",
+    "genre": "stock",
+    "isin": "INE117A01022",
+    "tag": "{\"sector\": \"Electric Equipment\"}"
+  },
+  {
+    "scheme_code": "KSL",
+    "id": "kalyani-steels-limited",
+    "name": "Kalyani Steels Limited",
+    "genre": "stock",
+    "isin": "INE907A01026",
+    "tag": "{\"sector\": \"Steel & Iron Products\"}"
+  },
+  {
+    "scheme_code": "IOC",
+    "id": "indian-oil-corporation-limited",
+    "name": "Indian Oil Corporation Limited",
+    "genre": "stock",
+    "isin": "INE242A01010",
+    "tag": "{\"sector\": \"Refineries\"}"
+  },
+  {
+    "scheme_code": "WSTCSTPAPR",
+    "id": "west-coast-paper-mills-limited",
+    "name": "West Coast Paper Mills Limited",
+    "genre": "stock",
+    "isin": "INE976A01021",
+    "tag": "{\"sector\": \"Paper & Paper Products\"}"
+  },
+  {
+    "scheme_code": "WAAREEENER",
+    "id": "waaree-energies-limited",
+    "name": "Waaree Energies Limited",
+    "genre": "stock",
+    "isin": "INE377N01017",
+    "tag": "{\"sector\": \"Power Generation & Distribution\"}"
+  },
+  {
+    "scheme_code": "WAAREERTL",
+    "id": "waaree-renewable-technologies-limited",
+    "name": "Waaree Renewable Technologies Limited",
+    "genre": "stock",
+    "isin": "INE299N01021",
+    "tag": "{\"sector\": \"Power Generation & Distribution\", \"industry\": \"Renewables\"}"
+  },
+  {
+    "scheme_code": "GLAXO",
+    "id": "glaxosmithkline-pharmaceuticals-limited",
+    "name": "GlaxoSmithKline Pharmaceuticals Limited",
+    "genre": "stock",
+    "isin": "INE159A01016",
+    "tag": "{\"sector\": \"Pharmaceuticals & Drugs\"}"
+  },
+  {
+    "scheme_code": "CHAMBLFERT",
+    "id": "chambal-fertilizers-&-chemicals-limited",
+    "name": "Chambal Fertilizers & Chemicals Limited",
+    "genre": "stock",
+    "isin": "INE085A01013",
+    "tag": "{\"sector\": \"Fertilizers\"}"
+  },
+  {
+    "scheme_code": "CHENNPETRO",
+    "id": "chennai-petroleum-corporation-limited",
+    "name": "Chennai Petroleum Corporation Limited",
+    "genre": "stock",
+    "isin": "INE178A01016",
+    "tag": "{\"sector\": \"Chemicals & Petrochemicals\", \"industry\": \"Petrochemicals\"}"
+  },
+  {
+    "scheme_code": "SKFINDIA",
+    "id": "skf-india-limited",
+    "name": "SKF India Limited",
+    "genre": "stock",
+    "isin": "INE640A01023",
+    "tag": "{\"sector\": \"Bearings\"}"
+  },
+  {
+    "scheme_code": "VBL",
+    "id": "varun-beverages-limited",
+    "name": "Varun Beverages Limited",
+    "genre": "stock",
+    "isin": "INE200M01039",
+    "tag": "{\"sector\": \"Consumer Food\"}"
+  }
 ]
